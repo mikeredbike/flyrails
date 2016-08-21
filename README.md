@@ -1,4 +1,4 @@
-The FlyRails people mover system features two-person FlyPods twenty feet above ground on a one mile grid of micro rails.  At each crosspoint of the grid is a station. A ten mile by ten mile grid would have one hundred stations. Riders living within the grid can walk to a station in less than ten minutes.
+The FlyRails people mover system features two-person FlyPods twenty feet above ground on a one mile grid of micro rails.  At each crosspoint of the grid is a station. A ten mile by ten mile grid has one hundred stations. Riders living within the grid can walk to a station in less than ten minutes.
 
 The FlyPods are centrally controlled.  Riders request a destination and the central controller routes the FlyPod non-stop to the requested station.  To guarantee FlyPod availability the controller predicts where FlyPods will be needed and moves them accordingly.  The controller accepts reservations made through a mobile phone application.
 
